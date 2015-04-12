@@ -1,0 +1,13 @@
+Name = arrowKeys;
+Version = 1.0;
+Author = "Braden Douglass <me@braidn.com>";
+KLL = 0.3;
+
+Date = 2015-04-01;
+
+# For those days when you miss the arrow keys
+U"RShift"    : U"Up";
+U"RAlt"      : U"Left";
+U"Function3" : U"Down";
+U"Function4" : U"Right";
+U"RGui"      : U"Shift";  # remap shift

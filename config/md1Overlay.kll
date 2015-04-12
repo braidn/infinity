@@ -1,0 +1,11 @@
+Name = md1Overlay;
+Version = 1.0;
+Author = "Braden Douglass <me@braidn.com>";
+KLL = 0.3;
+
+Date = 2015-04-01;
+
+# Function flipping
+U"Function2" : layerShift( 1 );
+U"Function3" : layerLock( 1 );
+U"Function4" : layerLock( 2 );

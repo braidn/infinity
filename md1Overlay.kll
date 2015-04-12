@@ -1,0 +1,12 @@
+Name = md1Overlay;
+Version = 1.0;
+Author = "Braden Douglass <me@bradin.com>";
+KLL = 0.3;
+
+Date = 2015-04-01;
+
+# Bottom left function key turns on layer 2.
+U"Function1" : layerShift( 2 );
+U"Function2" : layerShift( 2 );
+U"Function3" : layerLatch( 2 );
+U"Function4" : layerLock( 2 );
